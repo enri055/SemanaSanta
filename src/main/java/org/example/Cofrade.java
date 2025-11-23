@@ -6,4 +6,7 @@ public class Cofrade {
     String nombre;
 
     LocalDate fechaNacimiento;
+
+    String apellidos;
+
 }
